@@ -1,0 +1,44 @@
+button {
+    margin-top: 20px;
+    padding: 8px;
+    background-color:  rgb(18, 24, 112);
+    color: #dfdfe9;;
+    border: nono;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 410px;
+    border-radius: 5px;
+    
+}
+
+.caixa {
+    background-color:white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 300px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+input, select, textarea {
+    width: 390px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+}
+
+body{
+    background-color:#ebe8e9;
+    border-radius: 8px;
+}
